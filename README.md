@@ -1,20 +1,20 @@
 # Pastor - Projeto de Pensamento Computacional
 
-Bem-vindo ao meu repositório sobre o projeto "Pastor"! Este projeto foi desenvolvido durante o curso de Pensamento Computacional e tem como objetivo explorar conceitos e aplicações dessa área.
+Bem-vindo ao meu repositório, meu nome é isaque lemes e vou falar um pouco sobre meu projeto "Pastor"! Este projeto foi desenvolvido durante o curso de Pensamento Computacional e tem como objetivo explorar conceitos e aplicações dessa área.
 
 ## Sobre o Projeto
 
-Neste projeto, trabalhamos em diversas atividades que envolvem resolução de problemas, programação e lógica. O foco principal foi entender como o pensamento computacional pode ser aplicado em situações do dia a dia.
+Neste projeto, quero congregar na igreja,juntar crianças e adolecente e demais para falar da palavra de Deus, louvar e fazer celulas.
 
 ## Tecnologias Utilizadas
 
-- [Python](https://www.python.org/)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [HTML/CSS](https://www.w3schools.com/)
+- [python](https://www.python.org/)
+- [javaScript]https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [w3schools](https://www.w3schools.com/)
 
 ## Como Contribuir
 
-Sinta-se à vontade para fazer sugestões ou melhorias! Você pode abrir uma issue ou enviar um pull request.
+Sinta-se à vontade para fazer sugestões ou melhorias ou fale diretamente comigo!
 
 ## Redes Sociais
 
